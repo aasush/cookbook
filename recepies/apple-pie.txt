@@ -3,3 +3,7 @@ Apples
 bananaas
 cakes
 cheese
+pastry
+butter
+sugar
+cinnamon
