@@ -6,3 +6,4 @@ cheese
 pastry
 butter
 sugar
+cinnamon
